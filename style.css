@@ -1,0 +1,33 @@
+/* GENERAL */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* CONTAINER */
+
+.container {
+  background: linear-gradient(135deg, rgb(9, 9, 125), rgb(124, 11, 122));
+  width: 100%;
+  height: 100vh;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* APP */
+
+.todo-app {
+  background: white;
+  width: 100%;
+  max-width: 540px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 30px ;
+  padding-bottom: 50px;
+  border-radius: 8px;
+  margin: 20px auto;
+}
