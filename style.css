@@ -31,3 +31,17 @@
   border-radius: 8px;
   margin: 20px auto;
 }
+
+/* HEADING */
+
+h2 {
+  font-size: 26px;
+  color: rgb(2, 16, 149);
+  display: flex;
+  align-items: center;
+}
+
+h2 img {
+  height: 22px;
+  margin-left: 12px;
+}
